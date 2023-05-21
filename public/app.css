@@ -1,0 +1,14 @@
+body {
+    background: white;
+    color: black;
+    margin: auto;
+    font-family: sans-serif;
+}
+
+p {
+    line-height: 1.6;
+}
+
+#hell {
+    color: yellow;
+}
